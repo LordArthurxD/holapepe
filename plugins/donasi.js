@@ -1,8 +1,8 @@
 let handler = async m => m.reply(`
-╭─〘𝐹𝑒𝑙𝑖𝑥𝑐𝑟𝑎𝑐𝑘 〙
+╭─〘LordArthur〙
 │ • 𝑃𝑎𝑦𝑝𝑎𝑙 ]
-│ • Pero con que te suscribas a mi canal basta:)
-│ https://youtube.com/channel/UCqCaZ_SEhSykF3-PR5os7YA
+│ • con que entres a mi grupo va :)
+│ https://chat.whatsapp.com/KRVkFvY6QSxDkPCZAkfjiV
 ╰────
 `.trim()) // Tambah sendiri kalo mau
 handler.help = ['donasi']
