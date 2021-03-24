@@ -4,7 +4,7 @@
 let handler = async m => m.reply(`
 〘 APK LIST 𝗠𝗢𝗗 〙
 ❃❃❃❃❃❃❃❃❃❃❃❃❃❃❃
-      𝐹𝑒𝑙𝑖𝑥𝑐𝑟𝑎𝑐𝑘 *01* 
+      BOT-ARTHUR *01* 
 ❃❃❃❃❃❃❃❃❃❃❃❃❃❃❃
 %readmore
 ➨𝗔𝗹𝗶𝗴𝗵𝘁 𝗠𝗼𝘁𝗶𝗼𝗻 𝗺𝗼𝗱
